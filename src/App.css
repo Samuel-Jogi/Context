@@ -60,3 +60,16 @@
   justify-content: center;
 }
 
+.products{
+  display : flex;
+  gap : 30px;
+}
+
+.firstName{
+  width : 100px;
+}
+
+input:focus{
+  border : 2px solid blue;
+}
+
